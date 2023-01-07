@@ -178,7 +178,10 @@
     border-radius: 10px;
     background: #88b1a8;
 
+}
 
+.plan-title1:hover {
+    background-color: aqua;
 }
 
 .plan-title2 {
@@ -187,9 +190,13 @@
     /* border: 1px rgb(150, 168, 163) solid; */
     border-radius: 10px;
     background: #eecccc;
-
-
 }
+
+.plan-title2:hover {
+    background-color: aqua;
+}
+
+
 
 .plan-title3 {
     height: 350px;
@@ -197,8 +204,10 @@
     /* border: 1px black solid; */
     border-radius: 10px;
     background: #ccceee;
+}
 
-
+.plan-title3:hover {
+    background-color: aqua;
 }
 
 .plan-container {
